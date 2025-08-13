@@ -1,4 +1,4 @@
-# 🐾 NextJS Pokémon Explorer
+<img width="1827" height="839" alt="image" src="https://github.com/user-attachments/assets/a56af60e-57e2-469f-a1ac-4c0d602c7d1f" /># 🐾 NextJS Pokémon Explorer
 
 A simple **Pokémon Explorer** built with **Next.js** and **Tailwind CSS**.  
 Search, filter, and explore Pokémon using a clean, responsive UI.
@@ -29,7 +29,6 @@ src/
 ├── public/
 ├── styles/
 
-
 ---
 
 ## 🛠 Tech Stack
@@ -53,4 +52,9 @@ npm install
 
 # Run the development server
 npm run dev
+
+**## 📸 Screenshot**
+
+<img width="1827" height="839" alt="image" src="https://github.com/user-attachments/assets/ee95f1fc-e1f5-47a9-b113-9dad5efd62a7" />
+
 
